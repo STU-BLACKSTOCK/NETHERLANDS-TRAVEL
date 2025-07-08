@@ -23,8 +23,6 @@ Explore the beauty, culture, and history of the Netherlands with this interactiv
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Optional Frameworks:** React.js / Vue.js (if used)
-- **APIs:** Google Maps API / OpenWeatherMap (optional for weather info)
 - **Design Tools:** Figma / Canva / Illustrator (for visuals or UI mockups)
 
 ---
@@ -46,12 +44,11 @@ Explore the beauty, culture, and history of the Netherlands with this interactiv
 
 > Prerequisites:
 > - A modern browser
-> - Internet connection (for maps/API)
 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/netherlands-travel-guide.git
+git clone https://github.com/yourusername/NETHERLANDS-TRAVEL.git
 cd netherlands-travel-guide
 ````
 
@@ -60,13 +57,6 @@ cd netherlands-travel-guide
 ```bash
 open index.html
 # or double-click the file manually
-```
-
-3. **(Optional) If using a server (e.g. with React):**
-
-```bash
-npm install
-npm start
 ```
 
 ---
