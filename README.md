@@ -34,16 +34,13 @@ Explore the beauty, culture, and history of the Netherlands with this interactiv
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/home-page.png)
+![Home Page](assets/homepage.png)
 
 ### 📍 Attractions Map
-![Attractions Map](assets/map-page.png)
-
-### 🍽️ Dutch Food Highlights
-![Food Highlights](assets/food-page.png)
+![Attractions Map](assets/explorepage.png)
 
 ### 🚲 Travel Experiences
-![Travel Experiences](assets/experience-page.png)
+![Travel Experiences](assets/eventspage.png)
 
 ---
 
